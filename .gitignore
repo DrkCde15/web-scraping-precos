@@ -1,0 +1,7 @@
+*.csv
+relatorio.txt
+*.db
+*.venv
+*.pytest_cache/
+*__pycache__/
+*.png
